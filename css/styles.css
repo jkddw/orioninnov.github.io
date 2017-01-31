@@ -102,8 +102,13 @@ img {
 }
 
 .navbar-trans a{
-    color:#cdcdcd;
-    letter-spacing:1px;
+  color:#cdcdcd;
+  letter-spacing:1px;
+}
+
+.navbar-trans li>a {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .navbar-trans .form-control:focus {
