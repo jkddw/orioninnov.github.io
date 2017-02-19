@@ -83,8 +83,8 @@ video::-webkit-media-controls-panel {
 }
 
 .btn-huge {
-  padding:17px 22px;
-  font-size:22px;
+  padding: 17px 22px;
+  font-size: 22px;
 }
 
 .icon-bar {
@@ -99,7 +99,8 @@ video::-webkit-media-controls-panel {
 
 .navbar-trans .navbar-brand, .navbar-trans > .container-fluid .navbar-brand {
   padding: 14px;
-  color: #5491bd;
+  color: #fff;
+  font-size: 20px;
 }
 
 .navbar-trans li>a:focus,.navbar-trans li.active {
